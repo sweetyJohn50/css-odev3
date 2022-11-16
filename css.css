@@ -1,0 +1,31 @@
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+
+
+#box{
+    width: 561px;
+    height: 44px;
+    border-radius: 15px;
+    border-color: cyan;
+}
+
+.bttn {
+
+    text-decoration: none;
+    color: black;
+    
+}
+ 
+.fttr {
+    text-align:right ;
+    text-decoration: none;
+}
+
+
